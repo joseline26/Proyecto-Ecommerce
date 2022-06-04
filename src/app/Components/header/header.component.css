@@ -1,17 +1,13 @@
-.header{
-    background-color: #FCE38A;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 5px;
+.nav-wrapper{
+    background-color: #fce38a;
+    font-family: 'Montserrat', sans-serif;
 }
 
-.elementos{
-    margin-top: 0;
-    margin-bottom: 0;
+.nav-wrapper img{
+    padding-bottom: 10px;
 }
 
-#logo{
-    height: 50px;
-    margin-top: 0;
-    padding-top: 0;
+.material-icons{
+    padding-left: 50px;
+    padding-right: 50px;
 }
