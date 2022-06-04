@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "title": "British Invasion",
+        "qty": "1",
+        "qty_c": "",
+        "img": "brit",
+        "description": "Love liquorice? Try these traditional european candies directly from the UK!"
+    },
+
+    {
+        "id": "2",
+        "title": "Sweet Fiesta",
+        "qty": "1",
+        "qty_c": "",
+        "img": "mexicandy",
+        "description": "Delicious candies from Mexico! Enjoy all the sweet and spicy traditional flavors."
+    },
+
+    {
+        "id": "3",
+        "title": "Easter Parade",
+        "qty": "1",
+        "qty_c": "",
+        "img": "easter",
+        "description": "Love liquorice? Try these traditional european candies directly from the UK!"
+    }
+]
