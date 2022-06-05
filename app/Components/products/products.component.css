@@ -1,0 +1,29 @@
+.eltexto{
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 25px;
+ }
+ 
+ .candies
+ {
+     margin-top: 70px;
+ }
+ 
+ #candy
+ {
+     height: 200px;
+     margin-bottom: 20px;
+ }
+ 
+ 
+ .btn{
+     font-family: 'Inter', sans-serif;
+     font-weight: 600;
+     font-size: 14px;
+     border-radius: 14px;
+     background-color: #95e1d3;
+     border: none;
+     box-shadow: 2px 5px rgba(0, 0, 0, 0.2);
+ }

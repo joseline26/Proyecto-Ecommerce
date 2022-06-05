@@ -1,0 +1,13 @@
+.nav-wrapper{
+    background-color: #fce38a;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-wrapper img{
+    padding-bottom: 10px;
+}
+
+.material-icons{
+    padding-left: 50px;
+    padding-right: 50px;
+}
